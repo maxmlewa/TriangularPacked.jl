@@ -1,0 +1,11 @@
+name = "TriangularPacked"
+uuid = "23cebb5c-60ef-4bbd-b4db-27979a3ce76f"
+authors = ["Maxwell Onyango <maxmlewa@mit.edu>"]
+version = "0.1.0"
+
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+KernelAbstractions = "63c18a36-062a-441e-b654-da1e3c7f1b29"
+Random = "9a3f8284-6863-5f34-9a72-8c0ed1ebf26c"
